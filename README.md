@@ -45,7 +45,7 @@ The project demonstrates how images can be manipulated as numerical arrays using
 
 ### Project Materials
 
-- **Project Notebook:** Complete implementation of image alignment, gamma correction and panorama creation. [Open notebook](Panoramic-Image/panoramic_image.ipynb)
+- **Project Notebook:** Complete implementation of image alignment, gamma correction and panorama creation. [Open notebook](panoramic_image.ipynb)
 
 ## 2. Image Sharpening using a Single Spatial Filter
 
@@ -78,7 +78,7 @@ The result shows clearer edges and fine structures, particularly around building
 
 ### Project Materials
 
-- **Project Notebook:** Full implementation of the spatial sharpening pipeline. [Open notebook](Image-Sharpening/image_sharpening.ipynb)
+- **Project Notebook:** Full implementation of the spatial sharpening pipeline. [Open notebook](image_sharpening.ipynb)
 
 
 ## 3. Selective Color Rendering
@@ -102,7 +102,7 @@ The final image preserves red regions while converting all other areas to graysc
 
 ### Project Materials
 
-- **Project Notebook:** Complete selective color rendering implementation. [Open notebook](Selective-Color-Rendering/selective_color_rendering.ipynb)
+- **Project Notebook:** Complete selective color rendering implementation. [Open notebook](selective_color_rendering.ipynb)
 
 
 ## Tech Stack
